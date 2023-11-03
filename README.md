@@ -44,7 +44,7 @@ Development of a Restaurant Recommender System to consolidate learning of Neural
 This project makes use of user, item and rating data extracted from the University of California Machine Learning repository. The objective being to develop collaborative filtering algorithm that is able to make restaurant rating predictions for a new or existing user. Work undertaken on Google Collab.
 
 ### Files
-Steps taken to develop the machine learning model are found within [Kaggle - Restaurant Recommender System/restaurant-recommender-system.ipynb](https://github.com/jakeyk11/ml-models-collection/blob/main/Restaurant%20Recommender%20System/restaurant_recommender_system.ipynb)
+Steps taken to develop the machine learning model are found within [Kaggle - Restaurant Recommender System/restaurant-recommender-system.ipynb](https://github.com/jakeyk11/ml-models-collection/blob/main/Kaggle%20-%20Restaurant%20Recommender%20System/restaurant_recommender_system.ipynb)
 
     Kaggle - Restaurant Recommender System
     │
