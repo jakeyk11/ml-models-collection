@@ -7,6 +7,7 @@ This repository contains a collection of Machine learning models that I have con
   <summary>Problems</summary>
   <ol>
     <li><a href="#kaggle---titanic-disaster"> ➤ Kaggle - Titanic Disaster</a></li>
+    <li><a href="#kaggle---restaurant-recommender-system"> ➤ Kaggle - Restaurant Recommender System</a></li>
     <li><a href="#football-pass-clustering"> ➤ Football Pass Clustering</a></li>
   </ol>
 </details>
@@ -33,6 +34,34 @@ Steps taken to develop the machine learning model are found within [Kaggle - Tit
     │ 
     ├── ml_model.ipynb
 
+
+## Kaggle - Restaurant Recommender System
+
+### Motivation
+Development of a Restaurant Recommender System to consolidate learning of Neural Network driven collaborative filtering algorithms.
+
+### Description
+This project makes use of user, item and rating data extracted from the University of California Machine Learning repository. The objective being to develop collaborative filtering algorithm that is able to make restaurant rating predictions for a new or existing user. Work undertaken on Google Collab.
+
+### Files
+Steps taken to develop the machine learning model are found within [Kaggle - Restaurant Recommender System/restaurant-recommender-system.ipynb](https://github.com/jakeyk11/ml-models-collection/blob/main/Restaurant%20Recommender%20System/restaurant_recommender_system.ipynb)
+
+    Kaggle - Restaurant Recommender System
+    │
+    ├── data [not included in this repository]
+    │   ├── chefmozaccepts.csv
+    │   ├── chefmozcuisine.csv
+    │   ├── chefmozhours4.csv
+    │   ├── chefmozparking.csv
+    │   ├── geoplaces2.csv
+    │   ├── rating_final.csv
+    │   ├── usercuisine.csv
+    │   ├── userpayment.csv
+    │   ├── userprofile.csv
+    │    
+    ├── restaurant_recommender_system.ipynb
+
+
 ## Football Pass Clustering
 
 ### Motivation
@@ -47,7 +76,7 @@ Steps taken to develop the machine learning model are found within [Football Pas
     Football Pass Clustering
     │
     ├── data
-    │   ├── pass_data.pbz2 [not included in this repositoy]
+    │   ├── pass_data.pbz2 [not included in this repository]
     │ 
     ├── images
     │   ├── birch_t015.png
